@@ -1,1 +1,0 @@
-# Credit_default_challenge
